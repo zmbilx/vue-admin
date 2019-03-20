@@ -19,4 +19,7 @@ npm run build
 
 体验地址 http://api.hardphp.com/vue-admin/index.html 账号admin 密码123456
 
+代码结构
+![image](https://github.com/hardphp/vue-admin/blob/master/%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84.png)
+
 QQ交流群 :488148501
