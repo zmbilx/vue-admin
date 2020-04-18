@@ -15,6 +15,7 @@ const WWW_ROOT = process.env.NODE_ENV === 'production'
   : '/'
 
 module.exports = {
+  lintOnSave:false,
   publicPath: WWW_ROOT,
   chainWebpack: config => {
     config.resolve.alias
